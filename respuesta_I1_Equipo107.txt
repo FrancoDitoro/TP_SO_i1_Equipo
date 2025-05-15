@@ -4,4 +4,7 @@ MATIAS DORACIO
 
 RESPUESTAS:
 a-si veo los datos
+b-si, si lo veo
+c-si los veo
 d-mediante discord
+e-mediante projects
