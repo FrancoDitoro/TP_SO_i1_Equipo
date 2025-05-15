@@ -1,3 +1,10 @@
-Beta: Matias doracio
-Hora: 10:47AM
+BETA:
+NOMBRE: Matias doracio
 IP: 192.168.2.110
+Hora: 10:47 AM
+
+GAMMA:
+NOMBRE: Franco Di Toro
+IP: 192.168.56.1
+HORA: 11:05 AM
+
